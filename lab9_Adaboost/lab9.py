@@ -166,7 +166,7 @@ def adaboost(training_points, classifier_to_misclassified,
 #### SURVEY ####################################################################
 
 NAME = 'Athena Nguyen'
-COLLABORATORS = 'Somaia Saba'
+COLLABORATORS = None
 HOW_MANY_HOURS_THIS_LAB_TOOK = None
 WHAT_I_FOUND_INTERESTING = None
 WHAT_I_FOUND_BORING = None
